@@ -1,4 +1,4 @@
-package com.example.animalrescueproject;
+package com.rescue.animalrescueproject;
 
 import android.content.Context;
 
